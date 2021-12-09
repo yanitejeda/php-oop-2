@@ -3,7 +3,7 @@ include "./class/Prodotti.php";
 include "./class/Utenti.php";
 include "./class/PayCarta.php";
 include "./class/PayBancomat.php";
-//include "./class/Pagamento.php";
+//include "./class/Pagamento.php"; 
 
 
 
